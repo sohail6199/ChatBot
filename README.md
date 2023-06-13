@@ -18,4 +18,4 @@ Chatbot: "Why don't scientists trust atoms? Because they make up everything!"
 User: "Book a flight from London to New York on June 20th."
 Chatbot: "I found several flights available. Here are the options: [Flight details]."
 
-Note:If there is a problem in chatbot it might be due to openai api key expiring
+Note:If there is a problem in chatbot it might be due to openai api key expiring(free usage trail period over)
